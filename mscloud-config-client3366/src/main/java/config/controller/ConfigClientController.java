@@ -1,4 +1,4 @@
-package com.mscloud.config.controller;
+package config.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
